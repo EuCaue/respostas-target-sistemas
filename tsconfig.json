@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    // Enable latest features
+    "lib": ["ES2016"],
+    "target": "ESNext",
+    "module": "CommonJS",
+    "esModuleInterop": true
+  }
+}
