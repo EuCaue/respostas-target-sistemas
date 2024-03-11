@@ -4,20 +4,20 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
 
 **R:**
 
-Na primeira vez, eu acionaria o INTERRUPTOR 1, deixando-o ligado por um tempo.
+    Na primeira vez, eu acionaria o INTERRUPTOR 1, deixando-o ligado por um tempo.
 
-Então, ao entrar na sala, eu associaria essa ação à LÂMPADA A.
+    Então, ao entrar na sala, eu associaria essa ação à LÂMPADA A.
 
-Em seguida, na segunda vez, eu escolheria o INTERRUPTOR 2, ligando-o por um período.
+    Em seguida, na segunda vez, eu escolheria o INTERRUPTOR 2, ligando-o por um período.
 
-Ao entrar na sala dessa vez, eu relacionaria essa ação à LÂMPADA B.
+    Ao entrar na sala dessa vez, eu relacionaria essa ação à LÂMPADA B.
 
-Por exclusão, o INTERRUPTOR 3 seria aquele que não toquei, e, naturalmente, a LÂMPADA C seria conectada a ele.
+    Por exclusão, o INTERRUPTOR 3 seria aquele que não toquei, e, naturalmente, a LÂMPADA C seria conectada a ele.
 
-Portanto, saberia que:
+    Portanto, saberia que:
 
-1 = A
+    1 = A
 
-2 = B
+    2 = B
 
-3 = C
+    3 = C
