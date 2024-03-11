@@ -1,4 +1,4 @@
-5. Escreva um programa que inverta os caracteres de um string.
+## 5. Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
 
