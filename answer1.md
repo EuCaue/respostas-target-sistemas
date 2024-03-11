@@ -1,4 +1,4 @@
-1. Observe o trecho de código abaixo:
+## 1. Observe o trecho de código abaixo:
 
 ```javascript
 int INDICE = 13, SOMA = 0, K = 0;
